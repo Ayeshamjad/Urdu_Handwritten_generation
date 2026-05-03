@@ -77,7 +77,7 @@ The Handwriting Text Recognition (HTR) system used for evaluation is based on [B
 
 --
 
-## 📄 Citation
+## 📄 Citation.
 
 If you find our work useful for your research, please cite:
 
