@@ -75,7 +75,7 @@ We compare **DiffusionPen** with several state-of-the-art generative models, inc
 The Handwriting Text Recognition (HTR) system used for evaluation is based on [Best practices for HTR](https://github.com/georgeretsi/HTR-best-practices).
 
 
----
+--
 
 ## 📄 Citation
 
